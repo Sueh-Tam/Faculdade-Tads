@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AluguelDePneus",
+            "request": "launch",
+            "mainClass": "AluguelDePneus",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CadEstado",
+            "request": "launch",
+            "mainClass": "CadEstado",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "AtividadeArrayList",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayList.AtividadeArrayList",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "ExAtributoFInal",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayMap_ArrayList.ExAtributoFInal",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "ExEstatico",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayMap_ArrayList.ExEstatico",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayMap_ArrayList.Exercicio",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "UsaClasseFinal",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayMap_ArrayList.UsaClasseFinal",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "sistema",
+            "request": "launch",
+            "mainClass": "Exceptions.ArrayMap_ArrayList.sistema",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "CadCliente",
+            "request": "launch",
+            "mainClass": "Exceptions.Collections.CadCliente",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "Exceptions.Exceções.ExemploExcecao",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "LancaExcecoes",
+            "request": "launch",
+            "mainClass": "Exceptions.Exceções.LancaExcecoes",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "ReadCsvFile",
+            "request": "launch",
+            "mainClass": "Exceptions.Exceções.ReadCsvFile",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "TrataExcecoes",
+            "request": "launch",
+            "mainClass": "Exceptions.Exceções.TrataExcecoes",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "Locadora",
+            "request": "launch",
+            "mainClass": "Locadora",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "SistemaAeroporto",
+            "request": "launch",
+            "mainClass": "SistemaAeroporto",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "CadEstados",
+            "request": "launch",
+            "mainClass": "ex_aula3_hashmap.CadEstados",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        },
+        {
+            "type": "java",
+            "name": "Dias",
+            "request": "launch",
+            "mainClass": "ex_aula3_hashmap.Dias",
+            "projectName": "Mapeamento Objeto-Relacional_8d11ff58"
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "Concurso":"",
+    "link":"https://blablabla.com",
+    "ano":"2013",
+    "n_edital":"30",
+    "instituicao": "UNIVERSIDADE FEDERAL DO OESTE DO PARÁ – CONCURSO PÚBLICO",
+    "cargo":"TÉCNICO EM TECNOLOGIA DA INFORMAÇÃO",
+    "nivel":"médio",
+    "questoes":[
+        {
+            "topico":"multiprocessamento",
+            "codigo_questao":"QUE1",
+            "num_questao":"1",
+            "enunciado": "Uma das formas de Multiprocessamento em que diferentes sequências de instruções são executadas com um único conjunto de dados é a ",
+            "imagens":[
+                {
+                    "link_imagem":"https://imagem.img",
+                    "descricao":"Imagem de uma imagem tirada por uma imagem numa imagem"
+                },
+                {
+                    "link_imagem":"https://imagem2.img",
+                    "descricao":"Imagem duplicada numa imagem foto duplicada"
+                }
+            ],
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "MIMD"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "MISD"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "SIMD"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "XISD"
+                }
+                
+            ]
+        },
+        {
+            "topico":"SQL",
+            "codigo_questao":"QUE2",
+            "num_questao":"1",
+            "enunciado": "Observe a imagem a seguir, que apresenta o comando SQL utilizado para excluir o campo email da tabela aluno de um determinado banco de dados relacional. Tal comando precisa ser completado corretamente utilizando-se fragmentos de código presentes na alternativa ",
+            "imagens":[
+                {
+                    "link_imagem":"https://imagem.img",
+                    "descricao":"______ TABLE aluno ________ email;"
+                }
+            ],
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "MODIFY; EXCLUDE COLUMN. "
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "CHANGE; DROP COLUMN. "
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "ALTER; DROP COLUMN. "
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "ALTER; EXCLUDE COLUMN. "
+                }
+                
+            ]
+        },
+        {
+            "topico":"memorias",
+            "codigo_questao":"QUE3",
+            "num_questao":"3",
+            "enunciado": "Um parâmetro de funcionamento das memórias SDRAM e DDR que tem influência no desempenho e é muito importante para a manutenção do computador é o ",
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "CAS Latency. "
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "CMOS Memory. "
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "FIRE Memory"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "SPEED Function. "
+                }
+                
+            ]
+        },
+        {
+            "topico":"enderecamento",
+            "codigo_questao":"QUE4",
+            "num_questao":"4",
+            "enunciado": "A forma como uma instrução de máquina indica a localização do dado a ser utilizado na operação é denominada método de endereçamento. Das alternativas abaixo, a que não apresenta um método de endereçamento é: ",
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "Direto"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "Imediato"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "Indexado"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "Operacional"
+                }
+                
+            ]
+        },
+        {
+            "topico":"UCP",
+            "codigo_questao":"QUE5",
+            "num_questao":"5",
+            "enunciado": "A divisão do tempo de processamento da UCP (Unidade Central de Processamento) é medida em Time _______, que alterna esses períodos de tempo para cada processo, e é realizado pelo despachante quando existe mais de um processo escalonado para ser executado. A palavra que preenche corretamente a lacuna acima é ",
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "Middles"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "Centers"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "Slices"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "Cortexes"
+                }
+                
+            ]
+        },
+        {
+            "topico":"modelo",
+            "codigo_questao":"QUE6",
+            "num_questao":"6",
+            "enunciado": "Sobre as Camadas do Modelo ISO/OSI, considere as afirmativas a seguir: I – A Camada de Apresentação é responsável por tratar o modo como os diferentes sistemas representam os dados. Nesta camada as unidades de dados são chamadas de mensagens. II – A Camada de Transporte é a principal dentro da pilha de protocolos. Assinale a alternativa correta: ",
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "Ambas as afirmativas estão corretas"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "Somente a afirmativa I está correta"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "Somente a afirmativa II está correta"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "Nenhuma das alternativas está correta."
+                }
+                
+            ]
+        },
+        {
+            "topico":"PORTUGOL",
+            "codigo_questao":"QUE7",
+            "num_questao":"7",
+            "enunciado": "Analisando o código-fonte abaixo, escrito na linguagem algorítmica PORTUGOL, o número visualizado ao término da sua execução é ",
+            "imagens":[
+                {
+                    "link_imagem":"https://imagem.img",
+                    "descricao":"Código em portugol"
+                }
+            ],
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "10"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "45"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "90"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "68"
+                }
+                
+            ]
+        },
+        {
+            "topico":"computadores",
+            "codigo_questao":"QUE8",
+            "num_questao":"8",
+            "enunciado": "Quanto à tecnologia de transmissão, uma rede de computadores pode ser classificada como Links de ___________, quando todas as máquinas conectadas à rede compartilham o mesmo meio de comunicação e as mensagens enviadas por um computador da rede são recebidas por todas as outras máquinas, que verificam se a mensagem é para elas. O fragmento de texto que preenche a lacuna acima é",
+            "imagens":[
+                {
+                    "link_imagem":"https://imagem.img",
+                    "descricao":"Imagem de uma imagem tirada por uma imagem numa imagem"
+                },
+                {
+                    "link_imagem":"https://imagem2.img",
+                    "descricao":"Imagem duplicada numa imagem foto duplicada"
+                }
+            ],
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "difusão"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "ponto a ponto."
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "comunicação"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "comutação"
+                }
+                
+            ]
+        },
+        {
+            "topico":"multiprocessamento",
+            "codigo_questao":"QUE9",
+            "num_questao":"9",
+            "enunciado": "Uma das formas de Multiprocessamento em que diferentes sequências de instruções são executadas com um único conjunto de dados é a ",
+            "imagens":[
+                {
+                    "link_imagem":"https://imagem.img",
+                    "descricao":"Imagem de uma imagem tirada por uma imagem numa imagem"
+                },
+                {
+                    "link_imagem":"https://imagem2.img",
+                    "descricao":"Imagem duplicada numa imagem foto duplicada"
+                }
+            ],
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "MIMD"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "MISD"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "SIMD"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "XISD"
+                }
+                
+            ]
+        },
+        {
+            "topico":"protocolos",
+            "codigo_questao":"QUE10",
+            "num_questao":"10",
+            "enunciado": "Na camada de Inter-Rede (Internet) estão os protocolos responsáveis pelo endereçamento dos pacotes em uma rede TCP/IP. Nesta camada, o protocolo que transmite de maneira periódica as tabelas com as rotas existentes para todos os nós da rede é o ",
+            "alternativas":[
+                {
+                    "cod_alternativa":"alter_a",
+                    "alternativa": "A",
+                    "descricao": "ARP"
+                },
+                {
+                    "cod_alternativa":"alter_b",
+                    "alternativa": "B",
+                    "descricao": "RIP"
+                },
+                {
+                    "cod_alternativa":"alter_c",
+                    "alternativa": "C",
+                    "descricao": "ICMP"
+                },
+                {
+                    "cod_alternativa":"alter_d",
+                    "alternativa": "D",
+                    "descricao": "FTP"
+                }
+                
+            ]
+        }
+    ],
+    "gabaritoQuestoes":[
+        {
+            "codcodigo_questao":"QUE1",
+            "codAlternativaCorreta":"alter_c"
+        },
+        {
+            "codcodigo_questao":"QUE2",
+            "codAlternativaCorreta":"alter_d"
+        }
+    ]
+ }

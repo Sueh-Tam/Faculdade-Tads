@@ -1,0 +1,41 @@
+[
+    {
+        "nome":"Matheus",
+        "email":"matheus@gmail.com",
+        "pais":"BR",
+        "acessos":50,
+        "tarefas":[
+            {
+                "titulo":"El brabo",
+                "tags":["ifpr","javascript"],
+                "status":"pendente"
+            }
+        ]
+    },
+    {
+        "nome":"Alec",
+        "email":"Alec@gmail.com",
+        "pais":"EUA",
+        "acessos":15,
+        "tarefas":[
+            {
+                "titulo":"El pichula",
+                "tags":["UTFPR","faz u l"],
+                "status":"feito"
+            }
+        ]
+    },
+    {
+        "nome":"Yuri",
+        "email":"yuri@gmail.com",
+        "pais":"BR",
+        "acessos":90,
+        "tarefas":[
+            {
+                "titulo":"El macho",
+                "tags":["ifpr","HTML"],
+                "status":"feito"
+            }
+        ]
+    }
+]

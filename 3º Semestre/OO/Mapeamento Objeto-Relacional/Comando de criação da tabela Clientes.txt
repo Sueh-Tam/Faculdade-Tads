@@ -1,0 +1,8 @@
+CREATE TABLE clientes(
+    codigo INT NOT NULL,
+    nome VARCHAR(255),
+    endereco VARCHAR(255),
+    data_aniversario VARCHAR(255),
+    data_insercao VARCHAR(255),
+    data_atualizacao VARCHAR(255)
+);

@@ -1,0 +1,170 @@
+{
+    "cargo":"LABORATÓRIO DE INFORMÁTICA",
+    "ano":"2019",
+    "orgao":"PREFEITURA MUNICIPAL DE CONCÓRDIA - SC",
+    "instituicao":"AMAUC",
+    "nivel":"Superior",
+    "questoes": 
+    [
+        {
+            "enunciado": "Dentre os conceitos apresentados nas opções a seguir, escolha a que melhor define MEMÓRIA VIRTUAL:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"Memória mais rápida que RAM usada pelo microprocessador ou CPU para acessar resultados de cálculos aritméticos.","correto": false},
+                {"op":"b","alt":"Memória idêntica a RAM só que mais rápida","correto": false},
+                {"op":"c","alt":"Memória usada apenas pelos computadores/microcomputadores mais antigos.","correto": false},
+                {"op":"d","alt":"Memória gerada em disco rígido (paginação e segmentação), normalmente usada quando a memória RAM não dispõe mais de espaço para armazenamento, porém mais lenta. ","correto": true},
+                {"op":"e","alt":"Memória que considera apenas os dados armazenados em disco e a mais utilizada por ser mais rápida","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["memoria","armazenamento","ram"]
+            ]
+        },
+        
+        {
+            "enunciado": "Das opções abaixo, selecione a que NÃO APRESENTA um sistema operacional ou básico para microcomputadores:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"Linux","correto": false},
+                {"op":"b","alt":"Windows","correto": false},
+                {"op":"c","alt":"BSD","correto": false},
+                {"op":"d","alt":"MAC OS","correto": false},
+                {"op":"e","alt":"Office","correto": true}    
+            ],
+            "topicos": 
+            [
+                ["so"]
+            ]
+        },
+        
+        {
+            "enunciado": "Em que consiste o BACKUP DIFERENCIAL: ",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"Em realizar uma cópia dos dados alterados em relação ao último Backup Completo, armazenando mais dados do que o incremental.","correto": true},
+                {"op":"b","alt":"Em realizar uma cópia dos dados alterados desde o último backup incremental, portanto copia uma quantidade menor de dados para o local escolhido, necessitando de menor espaço de armazenamento. ","correto": false},
+                {"op":"c","alt":"Em realizar a cópia de todos os arquivos de determinado ambiente ou servidor, para outro local de armazenamento, seja local, virtual ou em nuvem.","correto": false},
+                {"op":"d","alt":"Em realizar uma cópia apenas dos arquivos de novos programas instalados.","correto": false},
+                {"op":"e","alt":"Em realizar um backup apenas de dados ou arquivos de um sistema operacional.","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["armazenamento","backup"]
+            ]
+        },
+        
+        {
+            "enunciado": "- É INCORRETO afirmar que um FIREWALL:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"É uma proteção ou barreira, que controla o tráfego de dados entre seu computador e a Internet","correto": false},
+                {"op":"b","alt":"Objetiva permitir somente a transmissão e recepção de dados ou acessos autorizados. ","correto": false},
+                {"op":"c","alt":"Cada dispositivo ou programa instalado em seu microcomputador, possui um Firewall próprio","correto": true},
+                {"op":"d","alt":"Protege as portas de acesso (internas ou externas) de invasões ou acessos não autorizados.","correto": false},
+                {"op":"e","alt":"É uma importante ferramenta de segurança e de proteção aos dados","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["firewall","protecao"]
+            ]
+        },
+        
+        {
+            "enunciado": "É CORRETO afirmar que a ferramenta de busca ou pesquisa da GOOGLE:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"É a única ferramenta de busca existente.","correto": false},
+                {"op":"b","alt":"Pode ser usada apenas para pesquisar dados, não permitindo por exemplo verificar ou realizar cálculos.","correto": false},
+                {"op":"c","alt":"Só encontra links de internet vinculados a NUVEM da própria GOOGLE.","correto": false},
+                {"op":"d","alt":"Não funciona em browsers (navegadores) que não estejam instalados em equipamentos com o sistema operacional Linux.","correto": false},
+                {"op":"e","alt":"Apesar de funcionalidades e recursos próprios é semelhante as demais ferramentas de busca existentes no mercado tais como: BING, YAHOO, ASK, DuckDuckGO entre outros","correto": true}    
+            ],
+            "topicos": 
+            [
+                ["busca","html"]
+            ]
+        },
+        
+        {
+            "enunciado": "Em temos gerais, assinale a alternativa que melhor caracteriza o PHISING: ",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"Recurso utilizado pelos cibercriminosos para SEQUESTAR (ou tornar inacessíveis) os dados de dispositivos ou computadores, que exige o pagamento de um resgate para disponibilizar o acesso aos mesmos novamente","correto": false},
+                {"op":"b","alt":"É uma maneira desonesta que criminosos usam para enganar você a revelar informações pessoais, como senhas ou cartão de crédito, CPF e número de contas bancárias através do envio de e-mails falsos ou direcionando acesso a websites falsos","correto": true},
+                {"op":"c","alt":"Permitem que os invasores assumam total controle da máquina (controle remoto) para roubar dados ou instalar outros malwares.","correto": false},
+                {"op":"d","alt":"Programas se escondem mascarados como arquivos ou softwares legítimos que depois de baixados e instalados, alteram o computador e realizam atividades maliciosas sem o conhecimento ou consentimento da vítima","correto": false},
+                {"op":"e","alt":" Falhas no código do software, não são um tipo de malware, mas erros cometidos pelo programador.","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["phising","protecao"]
+            ]
+        },
+        
+        {
+            "enunciado": "- Das alternativas elencadas a seguir, escolha a que melhor define a tarefa da BIOS em um microcomputador:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"É o primeiro programa a ser executado quando o computador é ligado, reconhece e verifica o funcionamento dos os componentes de hardware instalados e prove informações ao sistema operacional do hardware instalado na máquina.","correto": true},
+                {"op":"b","alt":"Gerenciar a comunicação entre todos os seus componentes (entre hardware e software, entre um aplicativo e outro), e entre estes e o usuário, de forma a tornar o computador uma máquina funcional, dispõe ainda de recursos para tornar mais fácil a comunicação entre o usuário e o computador, como a interface gráfica.","correto": false},
+                {"op":"c","alt":"É a principal placa do computador, responsável pela interconexão de todos os dispositivos que o compõem.","correto": false},
+                {"op":"d","alt":"Armazenar as informações que são utilizadas no trabalho do processador.","correto": false},
+                {"op":"e","alt":"É o cérebro do microcomputador","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["bios","internet"]
+            ]
+        },
+        
+        {
+            "enunciado": "Considerando os conceitos de Interface Homem Máquina e seus estilos de interação, o que seria uma JANELA MODAL? ",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"Janelas que podem ser alternadas de acordo com a vontade do usuário.","correto": false},
+                {"op":"b","alt":"É o único tipo de janela que pode ser desenvolvida em ambientes gráficos.","correto": false},
+                {"op":"c","alt":"Janelas que possibilitam apenas a execução de linhas de comando","correto": false},
+                {"op":"d","alt":"Janelas que prendem o usuário (não podem ser alternadas) até que uma tomada de decisão seja realizada.","correto": true},
+                {"op":"e","alt":"Janelas que utilizam exclusivamente de menus interativos","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["interacao","internet"]
+            ]
+        },
+        
+        {
+            "enunciado": "Com relação as interfaces baseadas em linha de comando, dentre as apresentadas abaixo, qual pode ser considerada uma desvantagem no uso destas:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":" O usuário não ter controle das ações sobre o sistema. ","correto":                 {"op":"e","alt":"O custo de implementação neste tipo de interface não justifica seu uso.","correto": false}    
+            },
+                {"op":"b","alt":"A experiência do usuário neste tipo de interface não determina o máximo de aproveitamento dos recursos do sistema.","correto": false},
+                {"op":"c","alt":" A dificuldade de manipulação do usuário em linhas de comando pode prejudicar o uso e aceitação do usuário.","correto": true},
+                {"op":"d","alt":"Os comandos executados pelo usuário através de uma interface em linhas de comando, geram resultados diferentes das demais interfaces. ","correto": false},
+                {"op":"e","alt":"O custo de implementação neste tipo de interface não justifica seu uso.","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["css","html"]
+            ]
+        },
+        
+        {
+            "enunciado": "Conceito de Hipermidia:",
+            "alternativas": 
+            [ 
+                {"op":"a","alt":"É a utilização apenas de imagens de alta resolução em sites da internet.","correto": false},
+                {"op":"b","alt":"Reunião de várias mídias num ambiente computacional, suportada por sistemas eletrônicos de comunicação.","correto": true},
+                {"op":"c","alt":"É a possibilidade de acesso aos sistemas integrados em uma nuvem computacional.","correto": false},
+                {"op":"d","alt":"Difusão dos sons encontrados nos mais variados locais da web","correto": false},
+                {"op":"e","alt":"É uma interface baseada em jogos.","correto": false}    
+            ],
+            "topicos": 
+            [
+                ["internet","html"]
+            ]
+        }    
+    ]
+}

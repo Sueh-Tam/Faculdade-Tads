@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<ul class="page-nav">
+    <li>
+        <a class="btn btn-outline-success" href="{{ url_for('books_index') }}">Listar</a>
+    </li>
+</ul>
+
+{% if book %}
+    <h1><u>Atualizar</u> book</h1>
+{% else %}
+    <h1>Cadastro book</h1>
+{% endif %}
+
+
+<form class="crud c2" action="/books/{{action}}" method="POST">
+
+    <input type="hidden" value={{book._id}} name="id">
+
+    <div class="form-group">
+        <label for="title">title</label>
+        <input value="{{book.title}}" type="text" class="form-control" name="title" id="title" required autocomplete="off">
+    </div>
+
+    {% if book %}
+    <button type="submit" class="btn btn-danger">Atualizar</button>
+    {% else %}
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+    {% endif %}
+
+</form>
+
+{% endblock %}
